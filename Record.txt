@@ -1,0 +1,6 @@
+434554     2021-1-4     as     12      Paid 
+434554     2021-1-4     as     1      Paid 
+434554     2021-1-4     panadol     111      Not Paid 
+434554     2021-1-4     blupin     42      Paid 
+434554     2021-1-4     siruph     13332      Not Paid 
+434554     2021-1-4     siruph     1      Not Paid 
